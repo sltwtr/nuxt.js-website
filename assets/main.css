@@ -45,7 +45,7 @@ ul li {
   background-image: url('./logo.png')
 }
 .hero-unit {
-  height: 500px;
+  height: 100vh;
 }
 main {
   background: #fff;
