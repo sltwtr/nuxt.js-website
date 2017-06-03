@@ -1,6 +1,7 @@
 <template>
   <div class="hero-unit" :style="style">
     <h1>{{ page.metafield.headline.value }}</h1>
+    <h2>{{ page.metafield.subheadline.value }}</h2>
   </div>
 </template>
 
